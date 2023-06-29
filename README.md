@@ -1,87 +1,97 @@
+# 💝 QUEEN HENTAI 💝
 
+<p align="center">
+ <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+
+---------
+
+  
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
-  </a>
+  <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
+    <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg">
+   
+</a> 
+    
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
-</p>
+<a 
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+QUEEN HENTAI Multi Device Whatsapp Bot.
 
 ***
 
-#### SETUP
 
-1. Fork the repo
+
+1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
-2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
+2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
-<a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+### a little about this bot
+- ✔️ | **Simple** 
+- ✔️ | **Button Template** 
+- ✔️ | **Multi Device** 
+- ✔️ | **Button Document(Experiment)** 
+---------
+
+## ``Support Group``
+[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
+---------
+
+## ```HEROKU DEPLOYMENT```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
+---------
+
+## ```HEROKU TUTORIAL```
+[![Watch on YOUTUBE](https://img.shields.io/badge/youtube%20TUTORIAL-red?style=for-the-badge&logo=youtube)](https://youtu.be/udsSWHUyAy4) 
+---------
+
+## ```STEPS TO DEPLOY ON HEROKU```
+
+- 1. Fork this repo (Don't forget to give a star)
+- 2. ***Get [SESSION-ID](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 3. Upload your session file.
+- 4. Simply click Deploy to heroku button above
+
+## ```QR SCAN```
+# 
+
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1?output%20only=1&lite=1#thumbnail.jpg)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1?output%20only=1&lite=1#thumbnail.jpg)  
+---------
+  
+## DEPLOY IN KOYEB    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+
+## ```DEPLOY IN RAILWAY```
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+  
+## DEPLOY IN COOLIFY    
+[![Deploy on COOLIFY](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)  
+
+## ```DEPLOY IN REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/dinuwah/QUEEN-HENTAI)](https://replit.com)
+
+## ```DEPLOY IN MOGENIUS```
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+  
+## DEPLOY IN RENDER    
+[![Deploy on RENDER](https://img.shields.io/badge/render%20Account-green?style=for-the-badge&logo=render)](https://dashboard.render.com/registerundefined)  
 
 
-
-#### DEPLOY TO Heroku 
-
-1. If You don't have an account in Heroku. Create a account.
-    <br>
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-2. Watch the following video to create Heroku acc for free.
-    <br>
-<p align="center"><a href="https://www.youtube.com/watch?v=J_Sq5OxK8ZE"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-3. Now Deploy
-    <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-#### DEPLOY TO Replit 
-
-1. If You don't have an account in Replit. Create a account.
-    <br>
-<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://repl.it/github/avi453/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-#### DEPLOY TO COOLIFY (Error occurs when server gets overloaded)
-
-1. If You don't have an account in Coolify. Create a account.
-    <br>
-<p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://youtu.be/hBxSyqyeoFU"> <img src="https://img.shields.io/badge/Coolify%20Deploy-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
-
-
- ## 📙 Guide
-
- - [Termux Hosting Guide](https://github.com/Guru322/GURU-BOT/blob/main/Termux-Guide.md)
- 
- 
- ## 🤩 Support
-
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
-
-- Star ⭐ the repo if you like GURU-BOT.
-
-## BASE OG BY [FG98](https://github.com/FG98F/dylux-fg)
-
-
- **THANKS TO** |[GURU](https://github.com/Guru322/GURU-BOT) | 
-
-
-
+## Special Thanks To
+- 1. 💭 Xeon ( cheems wa owner )
+- 2. 💭 Guru ( guru wa owner )
+- 3. 💭 Mr nima ( Elisa wa owner )
+- 4. 💭 Abhishek ( Abhishek wa owner )
+---------
